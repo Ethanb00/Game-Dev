@@ -1,0 +1,28 @@
+Sources:
+
+———————————————————————
+TITLE SCREEN
+Font:
+http://www.fontspace.com/last-soundtrack/bleeding-cowboys
+
+Image:
+http://fc04.deviantart.net/fs15/f/2007/058/4/0/Highplains_drifter_by_Destinyfall.jpg
+
+Music:
+http://freemusicarchive.org/music/Shake_That_Little_Foot/Shake_That_Little_Foot/Western_Country_vbrmp3
+———————————————————————
+Scene1
+Wooden floor texture pack
+Asset store: nobiax/yughues
+
+Lamp
+http://www.3dmodelfree.com/models/27371-0.htm
+
+dresser
+http://www.123dapp.com/123C-3D-Model/Farmhouse-6-Drawer-Dresser--White/600043
+
+door
+http://www.turbosquid.com/FullPreview/Index.cfm/ID/525953
+
+chair
+http://www.turbosquid.com/3d-models/free-3ds-model-chair/417261
